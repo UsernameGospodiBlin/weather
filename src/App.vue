@@ -26,3 +26,12 @@ export default {
   }
 };
 </script>
+
+<style>
+#app {
+  font-family: Arial, sans-serif;
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 20px;
+}
+</style>
